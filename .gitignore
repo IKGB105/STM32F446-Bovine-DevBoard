@@ -1,0 +1,12 @@
+# KiCad backups/caches (local only -- git already provides history)
+*-backups/
+fp-info-cache
+*.kicad_pcb-bak
+*.kicad_sch-bak
+_autosave-*
+*.lck
+~*.lck
+
+# OS
+.DS_Store
+Thumbs.db

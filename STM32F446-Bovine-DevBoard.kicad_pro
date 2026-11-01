@@ -489,7 +489,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ArmVaquita.kicad_pro",
+    "filename": "STM32F446-Bovine-DevBoard.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -635,8 +635,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "ArmVaquita.kicad_sch",
-        "name": "ArmVaquita",
+        "filename": "STM32F446-Bovine-DevBoard.kicad_sch",
+        "name": "STM32F446-Bovine-DevBoard",
         "uuid": "00000000-0000-0000-0000-000000000000"
       }
     ]
